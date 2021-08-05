@@ -7,9 +7,7 @@ a simple patch for wzry or other games
 or put ServiceCode in AndroidMainfest.xml Service.<br>
 3.compile the cpp and put the copiled file in the lib/armxxx<br>
 4.edit the dex code (the lib loader) to the lib-filename<br>
-5.sign the apk and install to test. the lib/armxxx<br>
-4.edit the dex code (the lib loader) to the lib-filename<br>
-5.sign the apk and install to test the game.
+5.sign the apk and install to test.
 # how to use epichook to kill sign auth
 1.rename the apk-backup to 'Arm_Epic'<br>
 2.merge the androidmainfest.xml in apk<br>
