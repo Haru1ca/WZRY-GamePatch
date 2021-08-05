@@ -1,0 +1,1 @@
+invoke-static {p0}, Lcom/tencent/sxhack;->inject()V

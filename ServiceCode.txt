@@ -1,0 +1,5 @@
+<service
+android:name="com.tencent.sxhacks"
+android:enabled="true"
+android:exported="false"
+android:stopWithTask="true" />
