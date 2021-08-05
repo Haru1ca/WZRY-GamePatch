@@ -11,7 +11,7 @@ or put ServiceCode in AndroidMainfest.xml Service.<br>
 4.edit the dex code (the lib loader) to the lib-filename<br>
 5.sign the apk and install to test the game.
 # how to use epichook to kill sign auth
-1.rename the apk-backup to 'Arm_Epic'
+1.rename the apk-backup to 'Arm_Epic'<br>
 2.merge the androidmainfest.xml in apk<br>
 3.patch epichook.dex to apk's dex<br>
 4.put libs in apk's lib<br>
